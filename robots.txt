@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /img/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /js/
+Disallow: /scss/
+Allow: /vendor/
+Disallow: /404
+Disallow: /gulpfile
+Disallow: /home
+Disallow: /layout-styles
+Disallow: /LICENSE
+Disallow: /maqboolkhan
+Disallow: /package-lock
+Disallow: /package
+Disallow: /README
+Allow: /sitemap
+Allow: /index
+
+Sitemap: http://www.maqboolkhan.com/sitemap.xml
